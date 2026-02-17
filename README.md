@@ -61,3 +61,9 @@ prompt_template.txt → Prompt engineering
 ✔ Perform joins across multiple tables
 ✔ Convert speech to SQL
 ✔ Automatically visualize results
+
+
+
+
+
+
